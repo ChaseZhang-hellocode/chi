@@ -23,8 +23,8 @@ My current research interests include Deep Learning, AI for Science, and Computa
 • HITSZ, 2021 - 2023  
 &nbsp;  Research Assistant  
 &nbsp; Advisor: [Prof. Yang Zhang](https://faculty.hitsz.edu.cn/zhangyang)  
-
 &nbsp; Topics: Biomedical Imaging, Deep Learning  
+
 • UESTC, 2020 - 2023  
 &nbsp;  Master of Informaiton and Communication Engineering  
 &nbsp; Advisor:  [Prof. Shuai Wang](https://faculty.uestc.edu.cn/wangshuai/zh_CN/index.htm) and [Prof. Changhui Rao](https://people.ucas.ac.cn/~chrao)  
