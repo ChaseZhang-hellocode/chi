@@ -19,14 +19,17 @@ My current research interests include Deep Learning, AI for Science, and Computa
 &nbsp;  Ph.D. Student   
 &nbsp; Supervisor: [Prof. Weixiong Zhang](https://www.polyu.edu.hk/hti/people/academic-staff/prof-zhang-weixiong/)  
 &nbsp; Topics: Genomics, Large Language Model, Community Detection   
+
 • HITSZ, 2021 - 2023  
 &nbsp;  Research Assistant  
 &nbsp; Advisor: [Prof. Yang Zhang](https://faculty.hitsz.edu.cn/zhangyang)  
+
 &nbsp; Topics: Biomedical Imaging, Deep Learning  
 • UESTC, 2020 - 2023  
 &nbsp;  Master of Informaiton and Communication Engineering  
 &nbsp; Advisor:  [Prof. Shuai Wang](https://faculty.uestc.edu.cn/wangshuai/zh_CN/index.htm) and [Prof. Changhui Rao](https://people.ucas.ac.cn/~chrao)  
 &nbsp; Topics: Adaptive Optics, Inverse Problem, Deep Learning  
+
 • NCIAE, 2016 - 2020  
 &nbsp;  Bachelor of Communication Engineering (internet of Things)  
 &nbsp; Topics: Embedded System Designing, Robotics
