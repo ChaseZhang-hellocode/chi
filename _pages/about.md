@@ -15,6 +15,9 @@ I got my M.S. degree (2023) from School of Information and Communication Enginee
 
 My current research interests include Deep Learning, AI for Science, and Computational Imaging.
 
+# Patent
+
 # Services
 ## Reviewers:
 International Conference on Machine Learning 2024 (ICML)
+
