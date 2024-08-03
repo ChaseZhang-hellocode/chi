@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Chi Zhang"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://chasezhang-hellocode.github.io/chi.github.io
+name                     : &name "Chi Zhang"
+description              : &description "PhD student, PolyU"
+url                      : https://chasezhang-hellocode.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "chi.github.io"
 
 # Site Author 
 author:
