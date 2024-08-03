@@ -19,7 +19,7 @@ repository               : "chi.github.io"
 # Site Author 
 author:
   # Biographic information
-  avatar           : "./images/chi.png"
+  avatar           : "https://github.com/ChaseZhang-hellocode/chi.github.io/blob/master/images/chi.png"
   name             : "Chi Zhang"
   pronouns         : # example: "he/his"  
   bio              : #"Short biography for the left-hand sidebar"
