@@ -32,7 +32,7 @@ My current research interests include Deep Learning, AI for Science, and Computa
 
 • NCIAE, 2016 - 2020  
 &nbsp;  Bachelor of Communication Engineering (internet of Things)  
-&nbsp; Topics: Embedded System Designing, Robotics
+&nbsp; Topics: Embedded System, Robotics, Printed Circuit Design and Welding
 
 
 
