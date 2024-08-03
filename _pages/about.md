@@ -17,7 +17,7 @@ My current research interests include Deep Learning, AI for Science, and Computa
 ## Experiences
 • PolyU, 2024 - Now  
 &nbsp;  Ph.D. Student   
-&nbsp; Supervisor: [Prof. Weixiong Zhang](https://www.polyu.edu.hk/hti/people/academic-staff/prof-zhang-weixiong/)  
+&nbsp; Advisor: [Prof. Weixiong Zhang](https://www.polyu.edu.hk/hti/people/academic-staff/prof-zhang-weixiong/)  
 &nbsp; Topics: Genomics, Large Language Model, Community Detection   
 
 • HITSZ, 2021 - 2023  
