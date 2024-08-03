@@ -18,7 +18,7 @@ My current research interests include Deep Learning, AI for Science, and Computa
 My publications are available from [Google Scholar](https://scholar.google.com/citations?user=s7WXQCsAAAAJ&hl=en).
 
 # Patent
-• A cascade adaptive optical image blind restoration method  
+• A cascade adaptive optical image blind restoration method.
 &nbsp; Shuai Wang, **Chi Zhang**, Jiangbo Bi.  
 &nbsp; China Patent CN116363014A, 2023.  
 
