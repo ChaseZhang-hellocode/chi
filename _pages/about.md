@@ -16,9 +16,9 @@ I got my M.S. degree (2023) from School of Information and Communication Enginee
 My current research interests include Deep Learning, AI for Science, and Computational Imaging.
 
 # Patent
-• A cascade adaptive optical image blind restoration method
-Shuai Wang, Chi Zhang, Jiangbo Bi.
-China Patent CN116363014A, 2023.
+• A cascade adaptive optical image blind restoration method  
+Shuai Wang, **Chi Zhang**, Jiangbo Bi.  
+China Patent CN116363014A, 2023.  
 
 # Services
 ## Reviewers:
