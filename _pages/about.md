@@ -14,18 +14,18 @@ I got my M.S. degree (2023) from School of Information and Communication Enginee
 
 My current research interests include Deep Learning, AI for Science, and Computational Imaging.
 
-# Publication 
+## Publication 
 My publications are available from [Google Scholar](https://scholar.google.com/citations?user=s7WXQCsAAAAJ&hl=en).
 
-# Patent
+## Patent
 • A cascade adaptive optical image blind restoration method.  
 &nbsp; Shuai Wang, **Chi Zhang**, Jiangbo Bi.    
 &nbsp; China Patent CN116363014A, 2023.  
 
-# Reviewers:
+## Reviewers:
 • International Conference on Machine Learning 2024 (ICML)
 
-# Teaching
+## Teaching
 
 
 
