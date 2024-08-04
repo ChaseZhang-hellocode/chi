@@ -14,7 +14,7 @@ name                     : &name "Chi Zhang"
 description              : &description "PhD student, PolyU"
 url                      : https://chasezhang-hellocode.github.io
 baseurl                  : # "" # the subpath of your site, e.g. "/blog"
-repository               : "chi.github.io"
+repository               : "chi"
 
 # Site Author 
 author:
