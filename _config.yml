@@ -13,8 +13,8 @@ title_separator          : "-"
 name                     : &name "Chi Zhang"
 description              : &description "PhD student, PolyU"
 url                      : https://chasezhang-hellocode.github.io
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "chi.github.io"
+baseurl                  : # "" # the subpath of your site, e.g. "/blog"
+repository               : "ChaseZhang-hellocode/chi.github.io"
 
 # Site Author 
 author:
