@@ -23,16 +23,16 @@ My current research interests include AI for Science and computational imaging.
 • HITSZ, 2021 - 2023  
 &nbsp;  Research Assistant  
 &nbsp; Advisor: [Prof. Yang Zhang](https://faculty.hitsz.edu.cn/zhangyang)  
-&nbsp; Topics: Biomedical Imaging, Deep Learning  
+&nbsp; Topics: Biomedical Imaging, Inverse Problem, Deep Learning  
 
 • UESTC, 2020 - 2023  
 &nbsp;  Master of Informaiton and Communication Engineering  
 &nbsp; Advisor:  [Prof. Shuai Wang](https://faculty.uestc.edu.cn/wangshuai/zh_CN/index.htm) and [Prof. Changhui Rao](https://people.ucas.ac.cn/~chrao)  
-&nbsp; Topics: Adaptive Optics, Inverse Problem, Deep Learning  
+&nbsp; Topics: Adaptive Optics, Inverse Problem, Computational Imaging
 
 • NCIAE, 2016 - 2020  
 &nbsp;  Bachelor of Communication Engineering (internet of Things)  
-&nbsp; Topics: Embedded System, Robotics, Printed Circuit Design, Welding
+&nbsp; Topics: Embedded System, Robotics, Image Processing, Printed Circuit Design, Welding
 
 
 
