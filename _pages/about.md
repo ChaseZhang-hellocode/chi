@@ -47,12 +47,7 @@ My publications are available from [Google Scholar](https://scholar.google.com/c
 ## Reviewers:
 • International Conference on Machine Learning 2024 (ICML) - AI for Science
 
-## Electronic Product Design:
-•    
 
-•    
-
-•    
 
 
 
