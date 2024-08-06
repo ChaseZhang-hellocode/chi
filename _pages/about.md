@@ -32,7 +32,7 @@ My current research interests include AI for Science and Computational Imaging.
 
 • NCIAE, 2016 - 2020  
 &nbsp;  Bachelor of Communication Engineering  
-&nbsp; Topics: Embedded System, Printed Circuit Design, Image Processing, PID Control
+&nbsp; Topics: Embedded Programming, Printed Circuit Design, Image Processing, PID Control
 
 
 
