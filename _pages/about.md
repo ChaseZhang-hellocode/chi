@@ -31,8 +31,8 @@ My current research interests include AI for Science and Computational Imaging.
 &nbsp; Topics: Adaptive Optics, Inverse Problem, Computational Imaging
 
 • NCIAE, 2016 - 2020  
-&nbsp;  Bachelor of Communication Engineering (internet of Things)  
-&nbsp; Topics: Robotics, Embedded System, PID Control, Image Processing, Printed Circuit Design
+&nbsp;  Bachelor of Communication Engineering  
+&nbsp; Topics: Embedded System, Printed Circuit Design, Image Processing, PID Control
 
 
 
