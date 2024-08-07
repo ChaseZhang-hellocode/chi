@@ -45,7 +45,7 @@ My publications are available via [Google Scholar](https://scholar.google.com/ci
 &nbsp; China Patent CN116363014A, 2023.  
 
 ## Reviewers:
-• International Conference on Machine Learning 2024 (ICML) - AI for Science
+• International Conference on Machine Learning 2024 (ICML) Workshop - AI for Science
 
 
 
