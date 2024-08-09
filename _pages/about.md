@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am Chi Zhang, currently a first-year Ph.D. Student in the Department of Health Technology and Informatics at Hong Kong Polytechnic University (PolyU), a member of [Hong Kong Jockey Club STEM Laboratory for Genomics and Artificial IntelligenceAI in Healthcare](https://genomicmedicine.github.io/site/#/), where I had the fortune to work with [Prof. Weixiong Zhang](https://www.polyu.edu.hk/hti/people/academic-staff/prof-zhang-weixiong/).
+I am Chi Zhang, currently a first-year Ph.D. Student in the Department of Health Technology and Informatics at Hong Kong Polytechnic University (PolyU), a member of [Hong Kong Jockey Club STEM Laboratory for Genomics and AI in Healthcare](https://genomicmedicine.github.io/site/#/), where I had the fortune to work with [Prof. Weixiong Zhang](https://www.polyu.edu.hk/hti/people/academic-staff/prof-zhang-weixiong/).
 
 I got my M.S. degree (2023) from School of Information and Communication Engineering of University of Electronic Science and Technology of China (UESTC), a member of [MediaLab](https://medialab.uestc.edu.cn/), where I was fortunate to work with [Prof. Shuai Wang](https://faculty.uestc.edu.cn/wangshuai/zh_CN/index.htm) and [Prof. Changhui Rao](https://people.ucas.ac.cn/~chrao). Before came to UESTC, I got my B.S. degree (2020) of Communication Engineering in North China Institute of Aerospace Engineering (NCIAE). I was also a part-time research assistant at the School of Science, Harbin Institute of Technology, Shenzhen (HITSZ) from 2021 to 2023,  under the supervision of [Prof. Yang Zhang](https://faculty.hitsz.edu.cn/zhangyang), who taught and helped me a lot in my academic career.
 
